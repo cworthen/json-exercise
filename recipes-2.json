@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Meatballs",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  },
+
+
+  {
+    "name": "Egg Salad",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  },
+
+  {
+    "name": "Baked Tilapia",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  }
+
+]
