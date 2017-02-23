@@ -1,6 +1,6 @@
 [
   {
-    "name": "Lorem ipsum dolor",
+    "name": "Parmesan Chicken",
     "rating": "Lorem ipsum dolor",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -9,7 +9,7 @@
   
 
   {
-    "name": "Lorem ipsum dolor",
+    "name": "Meat Loaf",
     "rating": "Lorem ipsum dolor",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
@@ -17,7 +17,7 @@
   },
 
   {
-    "name": "Lorem ipsum dolor",
+    "name": "Grilled Cheese Sandwich",
     "rating": "Lorem ipsum dolor",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
