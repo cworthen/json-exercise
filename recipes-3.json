@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Vanilla Bean Cupcakes",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  },
+
+
+  {
+    "name": "Creme Brulee",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  },
+
+  {
+    "name": "Chocolate Raspberry Ganache",
+    "rating": "Lorem ipsum dolor",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+  }
+
+]
