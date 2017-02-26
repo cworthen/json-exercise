@@ -6,7 +6,11 @@
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "photo": "http://images.media-allrecipes.com/userphotos/560x315/618489.jpg",
-    "rating": "3 stars"
+    "rating":
+        [
+    {"c": "fa-500px", "l": "500px"},
+    {"c": "fa-adjust", "l": "Adjust"},
+  ]
   },
 
 
