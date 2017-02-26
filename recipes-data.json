@@ -1,0 +1,33 @@
+{
+
+  "recipes" : [
+  {
+    "name": "Parmesan Chicken",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "photo": "http://images.media-allrecipes.com/userphotos/560x315/618489.jpg",
+    "rating": "2 stars"
+  },
+
+
+  {
+    "name": "Meat Loaf",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "photo": "http://pictures.food.com/api/file/dAm7zzGETEWhqdA55ja0-061-virginia-meatloaf.jpg/convert?loc=/pictures.food.com/recipes/54/25/7/KnFL5f1aQWKzPn8oURhb_061%20virginia%20meatloaf.jpg&width=555&height=416&fit=max&flags=progressive&quality=95",
+    "rating": [
+         {"c": "fa-star-half-o", "l": "Star half o"},
+              {"c": "fa-star-half-o", "l": "Star half o"},
+    ]
+  },
+
+  {
+    "name": "Grilled Cheese Sandwich",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "photo" : "http://1.bp.blogspot.com/-hOisAYJTwWE/TrCPTTspz9I/AAAAAAAAM8Y/RIqSBVtAx88/s800/The%2BPerfect%2BGrilled%2BCheese%2BSandwich%2B800%2B1581.jpg",
+    "rating": "3 stars"
+  }
+
+]
+}
