@@ -3,28 +3,24 @@
   "recipes" : [
   {
     "name": "Parmesan Chicken",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Chicken breasts are breaded with flavorful crumbs, herbs, and Parmesan cheese, then baked to a golden brown color.",
+    "ingredients":"2 tablespoons olive oil, 1 cup dry bread crumbs, 2/3 cup grated Parmesan cheese, 1 teaspoon dried basil leaves",
     "photo": "http://images.media-allrecipes.com/userphotos/560x315/618489.jpg",
-     "rating":["<i class='fa fa-star'></i> <i class='fa fa-star'></i> <i class='fa fa-star'></i>"]
-
-
-
+    "rating":["<i class='fa fa-star'></i> <i class='fa fa-star'></i> <i class='fa fa-star'></i>"]
   },
-
 
   {
     "name": "Meat Loaf",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Classic meatloaf made delicious using bread crumbs - a scrumptious dinner.",
+    "ingredients":"2 eggs, 1/2 cup ketchup, 1/2 cup milk, 1 cup of Bread Crumbs, 1/4 cup finely chopped onion, 1lb. lean ground beef",
     "photo": "http://pictures.food.com/api/file/dAm7zzGETEWhqdA55ja0-061-virginia-meatloaf.jpg/convert?loc=/pictures.food.com/recipes/54/25/7/KnFL5f1aQWKzPn8oURhb_061%20virginia%20meatloaf.jpg&width=555&height=416&fit=max&flags=progressive&quality=95",
     "rating": ["<i class='fa fa-star'></i> <i class='fa fa-star'></i>"]
   },
 
   {
     "name": "Grilled Cheese Sandwich",
-    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-    "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "description":"Quick and easy grilled cheese sandwich",
+    "ingredients":"2 slices white bread, 2 tablespoons butter divided, 2 slices Cheddar cheese",
     "photo" : "http://1.bp.blogspot.com/-hOisAYJTwWE/TrCPTTspz9I/AAAAAAAAM8Y/RIqSBVtAx88/s800/The%2BPerfect%2BGrilled%2BCheese%2BSandwich%2B800%2B1581.jpg",
     "rating": ["<i class='fa fa-star'></i> <i class='fa fa-star'></i> <i class='fa fa-star-half-o'></i>"]
   }
