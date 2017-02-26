@@ -7,10 +7,10 @@
     "ingredients":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     "photo": "http://images.media-allrecipes.com/userphotos/560x315/618489.jpg",
     "rating":
-        [
-    {"c": "fa-500px", "l": "500px"},
-    {"c": "fa-adjust", "l": "Adjust"}
-  ]
+    "rating":
+    {"c": "fa-fa-500px", "l": "500px",
+    "c": "fa-fa-adjust", "l": "Adjust"}
+
   },
 
 
